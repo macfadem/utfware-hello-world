@@ -1,1 +1,1 @@
-# utfware-hello-world
+Testando configurações de repositório do GitHub. Prática 1 do Diogo Souza
